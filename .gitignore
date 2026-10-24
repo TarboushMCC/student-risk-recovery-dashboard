@@ -1,0 +1,37 @@
+﻿# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# AI assistant / editor tooling (local only)
+.claude/
+.agent/
+.codex/
+.codebuddy/
+.continue/
+.cursor/
+.gemini/
+.kiro/
+.opencode/
+.qoder/
+.roo/
+.trae/
+.windsurf/
+CLAUDE.md
+AGENTS.md
+graphify-out/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# project-specific
+*.rar
+*.pdf
+
